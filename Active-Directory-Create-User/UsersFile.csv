@@ -1,0 +1,3 @@
+SamAccountName,Name,FirstName,LastName,DisplayName,Title,UserPrincipalName,Email,EmployeeID,OU,Group
+jdoe,John Doe,John,Doe,John Doe,Technician,jdoe@testserver.dev,jdoe@testserver.dev,1001,"OU=Basic Domain User,DC=testserver,DC=devin",BasicUsers
+asmith,Alice Smith,Alice,Smith,Alice Smith,Administrator,asmith@testserver.dev,asmith@testserver.dev,1002,"OU=AdminAccounts,DC=testserver,DC=devin",AdminAccounts
